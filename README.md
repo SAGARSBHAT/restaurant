@@ -1,1 +1,1 @@
-# restaurantapi
+# restaurant
